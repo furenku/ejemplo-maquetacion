@@ -1,0 +1,19 @@
+#lista li {
+    display: flex;
+    /* p16 */
+    padding: 16px;
+}
+
+
+#lista img {
+    /* w64 */
+    width: 64px;
+    /* mr16 */
+    margin-right: 16px;
+}
+
+#lista li > * {
+    /* df */
+    display: flex;
+    align-items: center;
+}

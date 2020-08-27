@@ -1,0 +1,29 @@
+html, body {
+    /* w100p */
+    width: 100%;
+    /* h100p */
+    height: 100%;
+    /* m0 */
+    margin: 0;
+    /* p0 */
+    padding: 0;
+}
+
+ul, li {
+    /* m0 */
+    margin: 0;
+    /* p0 */
+    padding: 0;
+
+    list-style: none;
+}
+
+
+img {
+    /* w100p */
+    width: 100%;
+    /* h100p */
+    height: 100%;
+    /* obfi */
+    object-fit: cover;
+}

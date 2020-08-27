@@ -1,0 +1,19 @@
+main > section {
+    margin-bottom: 32px;
+}
+
+
+.botones,
+.imagenes {
+    display: flex;
+    /* jcc */
+    justify-content: center;
+    /* aic */
+    align-items: center;
+}
+
+
+.botones button,
+.imagenes > * {
+    padding: 16px;
+}
